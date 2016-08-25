@@ -78,7 +78,6 @@ public class GameActivity extends Activity implements View.OnClickListener {
         }
     }
 
-
     void setQuestion() {
         //generate the parts of the question
         int numberRange = currentLevel * 3;
